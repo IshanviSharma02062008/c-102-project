@@ -1,0 +1,13 @@
+*Writing notes
+1.I take a pen
+2. a notebook
+3. open the notes on whatsapp
+4. start writing them
+ 
+*packing school bag
+1. take out my bag from the cupboard
+2. see the time table
+3. pack the books according to it
+4. put my lunch box, fruit box and water bottle in it.
+
+To automate these tasks I will make a robot which will follow all the instructions given by me. It will do all the tasks which I find boring or too lazy to do. I will write a code which will make the robot to follow my instructions . I will instruct him pack my school bag . He will pack my bag according to the steps written by me in the code or I will tell it how to do the task.
